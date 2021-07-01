@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://kolawolejohn.github.io/my-task-management-frontend/static/css/main.8e1ae80c.chunk.css",
+    "main.js": "https://kolawolejohn.github.io/my-task-management-frontend/static/js/main.783fe67e.chunk.js",
+    "main.js.map": "https://kolawolejohn.github.io/my-task-management-frontend/static/js/main.783fe67e.chunk.js.map",
+    "runtime~main.js": "https://kolawolejohn.github.io/my-task-management-frontend/static/js/runtime~main.3e676b9b.js",
+    "runtime~main.js.map": "https://kolawolejohn.github.io/my-task-management-frontend/static/js/runtime~main.3e676b9b.js.map",
+    "static/js/2.95a8dbab.chunk.js": "https://kolawolejohn.github.io/my-task-management-frontend/static/js/2.95a8dbab.chunk.js",
+    "static/js/2.95a8dbab.chunk.js.map": "https://kolawolejohn.github.io/my-task-management-frontend/static/js/2.95a8dbab.chunk.js.map",
+    "index.html": "https://kolawolejohn.github.io/my-task-management-frontend/index.html",
+    "precache-manifest.03b0735e41c7fb12907c5656bb712d73.js": "https://kolawolejohn.github.io/my-task-management-frontend/precache-manifest.03b0735e41c7fb12907c5656bb712d73.js",
+    "service-worker.js": "https://kolawolejohn.github.io/my-task-management-frontend/service-worker.js",
+    "static/css/main.8e1ae80c.chunk.css.map": "https://kolawolejohn.github.io/my-task-management-frontend/static/css/main.8e1ae80c.chunk.css.map"
+  }
+}
